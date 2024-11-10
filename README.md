@@ -1,11 +1,11 @@
 The Python Slots Game is a simple slot machine game written in Python. Players are given an initial balance, and they can place bets on each spin of the slot machine. The game features different symbols, each with its own payout multiplier. The goal is to match all three symbols in a row for a payout. The game continues until the player runs out of money or decides to quit.
 
 ## Features
-### Five Symbols: 🍒 (cherry), 🍉 (watermelon), 🍋 (lemon), 🔔 (bell), and ⭐ (star).
+Five Symbols: 🍒 (cherry), 🍉 (watermelon), 🍋 (lemon), 🔔 (bell), and ⭐ (star).
 Payout Multiplier: Each symbol has its own payout multiplier, with stars offering the highest rewards.
 Betting System: Players can place a bet, which is deducted from their balance. If they win, the payout is added back.
-### Replay Option: After each spin, players can choose to play again or exit.
-### Balance Tracking: Players can see their current balance and are informed of the result after each spin.
+Replay Option: After each spin, players can choose to play again or exit.
+Balance Tracking: Players can see their current balance and are informed of the result after each spin.
 Symbols & Payouts
 The following symbols are available in the game, each offering different payout multipliers:
 
